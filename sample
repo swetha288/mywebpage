@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+<img src="C:\Users\User\Pictures\pumpkin.gif">
+</body>
+</html>
+<title>The Halloween Store</title>
+<h2>The Halloween Store</h2> <p><b>For the little Goblin in all of us!</b></p>
+
+<h1>Welcome to my site. Please come in and stay awhile.</h1>
+
+<p>I started this website because Halloween has always been my favorite holiday. But during the last year, 
+<br>I started selling some of my favourite Halloween products and they have become quite a hit.
+
+<p>If you click on the Personal link, you can browse my favorite Halloween pictures, stories, and films.
+<br>And if you join my email list,I will keep you up to date on all things Halloween
+
+<h2>Product categories</h2>
+
+<ul>
+<a href="https://www.google.com/search?q=props&rlz=1C1CHBF_enIN1056IN1056&oq=props&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgwIARAAGEMYsQMYigUyCQgCEAAYQxiKBTIJCAMQABhDGIoFMgkIBBAAGEMYigUyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyEggJEAAYFBiDARiHAhixAxiABNIBCDMyMDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8">
+<li>props</li>
+<a href="https://www.google.com/search?q=costumes&rlz=1C1CHBF_enIN1056IN1056&oq=costumes&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABhDGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMg8ICBAAGEMYgwEYsQMYigUyBwgJEAAYgATSAQgyOTc2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8">
+<li>Costumes</li>
+<a href="https://www.google.com/search?q=special+effects&rlz=1C1CHBF_enIN1056IN1056&sxsrf=AB5stBjQkZvLXeCI9HMU5EMhT47O2hVBZw%3A1690284854636&ei=NrO_ZK-4Ju_0juMP8tedyAg&ved=0ahUKEwivq9Hi4amAAxVvumMGHfJrB4kQ4dUDCA8&uact=5&oq=special+effects&gs_lp=Egxnd3Mtd2l6LXNlcnAiD3NwZWNpYWwgZWZmZWN0czIFEAAYgAQyCBAAGIAEGLEDMgUQABiABDIFEAAYgAQyCBAAGIAEGLEDMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIsEFQrwJY5zVwAngBkAEEmAGxA6AB_iKqAQowLjEzLjMuMi4yuAEDyAEA-AEBqAIUwgIKEAAYRxjWBBiwA8ICChAAGIoFGLADGEPCAgcQABiKBRhDwgINEAAYigUYsQMYgwEYQ8ICCxAuGIAEGMcBGK8BwgIKEAAYgAQYsQMYCsICBxAjGOoCGCfCAg0QLhjHARjRAxjqAhgnwgIQEAAYigUY6gIYtAIYQ9gBAcICBxAuGIoFGEPCAg0QLhiKBRjHARjRAxhDwgILEAAYgAQYsQMYgwHCAhEQLhiDARjHARixAxjRAxiABMICCxAAGIoFGLEDGIMBwgIWEC4YigUYQxiXBRjcBBjeBBjgBNgBAsICDhAAGIoFGLEDGIMBGJECwgILEC4YigUYsQMYgwHCAg4QLhiABBixAxjHARjRA8ICCBAAGIoFGJECwgILEC4YgAQYsQMYgwHCAgUQLhiABOIDBBgAIEGIBgGQBgq6BgYIARABGAG6BgYIAhABGBQ&sclient=gws-wiz-serp">
+<li>special Effects</li>
+<a href="https://www.google.com/search?q=masks&rlz=1C1CHBF_enIN1056IN1056&oq=masks&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABhDGIoFMgkIAhAAGEMYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEC4YgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxODQ3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8">
+<li>Masks</li>
+</a>
+
+</ul>
+
+<h3>My guarantee</h3>
+
+<p>If you aren't completely satisfied with everything you buy from my site, you can return it for a full refund.<b> <p>(c) 2016 Ben Murach</p>
